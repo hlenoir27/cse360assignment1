@@ -42,7 +42,7 @@ public class AddingMachine {
 	   */
 	  public String toString () {
 		  
-	    return "0" + memory;
+	    return memory;
 	  }
 	  /**clears AddingMachine
 	   */
